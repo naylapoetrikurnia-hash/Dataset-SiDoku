@@ -755,9 +755,9 @@ padding:38px;
 
 <h2 style="
 margin-top:0;
-font-size:38px;
+font-size:28px;
 line-height:1.3;
-margin-bottom:34px;
+margin-bottom:24px;
 ">
 🧠 Business Analytics Summary
 </h2>
@@ -811,9 +811,9 @@ box-shadow:0 10px 25px rgba(0,0,0,0.05);
 
 <h2 style="
 margin-top:0;
-font-size:38px;
+font-size:28px;
 line-height:1.3;
-margin-bottom:34px;
+margin-bottom:24px;
 color:#0A4174;
 ">
 🚀 Strategic Recommendation
